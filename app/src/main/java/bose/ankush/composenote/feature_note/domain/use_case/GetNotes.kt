@@ -32,8 +32,3 @@ class GetNotes(private val repository: NoteRepository) {
         }
     }
 }
-
-class something {
-
-
-}
